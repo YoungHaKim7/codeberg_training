@@ -4,6 +4,7 @@
 
 # codeberg사용법
 - https://docs.codeberg.org/getting-started/first-repository/
+- https://codeberg.org/Codeberg
 
 # gitignore정리 잘됨
 - https://codeberg.org/Codeberg-Infrastructure/forgejo/src/branch/codeberg-9/options/gitignore
